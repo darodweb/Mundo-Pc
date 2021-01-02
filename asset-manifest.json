@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Mundo-Pc/static/css/main.4780bea8.chunk.css",
+    "main.js": "/Mundo-Pc/static/js/main.291e7e59.chunk.js",
+    "main.js.map": "/Mundo-Pc/static/js/main.291e7e59.chunk.js.map",
+    "runtime-main.js": "/Mundo-Pc/static/js/runtime-main.7fc6422b.js",
+    "runtime-main.js.map": "/Mundo-Pc/static/js/runtime-main.7fc6422b.js.map",
+    "static/js/2.193dd85d.chunk.js": "/Mundo-Pc/static/js/2.193dd85d.chunk.js",
+    "static/js/2.193dd85d.chunk.js.map": "/Mundo-Pc/static/js/2.193dd85d.chunk.js.map",
+    "index.html": "/Mundo-Pc/index.html",
+    "static/css/main.4780bea8.chunk.css.map": "/Mundo-Pc/static/css/main.4780bea8.chunk.css.map",
+    "static/js/2.193dd85d.chunk.js.LICENSE.txt": "/Mundo-Pc/static/js/2.193dd85d.chunk.js.LICENSE.txt",
+    "static/media/Spinner.6098456d.gif": "/Mundo-Pc/static/media/Spinner.6098456d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc6422b.js",
+    "static/js/2.193dd85d.chunk.js",
+    "static/css/main.4780bea8.chunk.css",
+    "static/js/main.291e7e59.chunk.js"
+  ]
+}
